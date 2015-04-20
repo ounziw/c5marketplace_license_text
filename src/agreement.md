@@ -1,16 +1,16 @@
-This License (“the Agreement”) is between DEVELOPMENT PARTNER and Customer as identified on the Order Details Email.  This Agreement applies to all employees in Customer’s organization (“Authorized Users”).
+このライセンス(使用許諾契約)は、注文詳細メールで示されている、開発パートナーと顧客の間で締結される。この契約は、顧客の組織のすべての従業員(許諾を受けたユーザー)に適用される。
 
-1.    License Grant.  Subject to the provisions of this Agreement, Customer is granted a limited, non-transferable, non-exclusive license to use the Software Application for a single website and a single staging or development version.  Customer may not offer the System for resale without expressed permission from DEVELOPMENT PARTNER.  
+1.    ライセンスの付与。 この使用許諾契約に基づき、顧客は制限された、譲渡不能な、非独占的な使用権を付与される。一つのウェブサイトおよび一つの開発または動作検証環境で使用することができる。開発パートナーの事前の承諾がある場合を除き、顧客は本システムを再販売してはならない。
 
-2.    Augmenting Code. Customer may modify, supplement, adapt, translate or create derivative works based upon the System. Any modifications are fully owned by customer, and do not effect the license limitations for further use. Customer shall have no right to copy the System without DEVELOPMENT PARTNER’s prior written consent, which may be withheld for any reason.  
+2.    コードの改変。顧客は、本システムを改変し、追加し、翻案し、翻訳し、あるいは派生物を作成することができる。これらの変更はすべて顧客が権利を保有するものであり、ライセンス制限を受けない。開発パートナーの事前の書面による同意がある場合を除き、顧客はシステムをコピーすることは禁止されており、いかなる理由であろうと留保される。 
 
-3.    Ownership.  The System is licensed, not sold.  Customer acknowledges that the System (including any changes Customer may request or suggest) is the property of DEVELOPMENT PARTNER or its licensors.  Title to the System and all related intellectual property will remain with DEVELOPMENT PARTNER and its licensors at all times, as will all other rights not explicitly granted to Customer in this Agreement.  
+3.    所有権。 本システムは、ライセンス提供されており、販売されているのではない。顧客は、本システム(顧客が要求したり提案した変更も含まれる)が開発パートナーあるいはそのライセンサーの所有物であることを確認する。いかなる場合も本システムおよび全ての関連する知的所有権は開発パートナーおよびそのライセンサーに帰属する。この使用許諾契約で顧客に明示的に付与されていない他の権利全ても同様である。 
 
-4.    Important Warranty Disclaimers and Limitation of Liability.  
+4.    重要な注意事項および責任の制限。  
 
-  NO WARRANTY.  Although DEVELOPMENT PARTNER attempts to deliver accurate, complete content and error-free software applications, occasional errors or omissions may occur in the System.  EXCEPT AS SPECIFICALLY PROVIDED IN THIS AGREEMENT, THE SYSTEM IS PROVIDED "AS IS."  DEVELOPMENT PARTNER MAKES NO OTHER REPRESENTATION OR WARRANTY, EITHER EXPRESS OR IMPLIED.  DEVELOPMENT PARTNER DOES NOT WARRANT THE ACCURACY, COMPLETENESS, PERFORMANCE, CURRENCY, MERCHANTABILITY, OR FITNESS FOR A PARTICULAR PURPOSE OF THE SYSTEM.  DEVELOPMENT PARTNER DISCLAIMS ALL RESPONSIBILITY FOR ANY LOSS OR CLAIM OF ANY KIND RESULTING FROM, ARISING OUT OF, OR ANY WAY RELATED TO USE OF THE SYSTEM.  DEVELOPMENT PARTNER’S ENTIRE LIABILITY AND OBLIGATION SHALL BE LIMITED TO DEVELOPMENT PARTNER USING COMMERCIALLY REASONABLE EFFORTS TO CORRECT ERRORS OR OMISSIONS AND SHALL CONSTITUTE CUSTOMER’S SOLE RIGHT AND EXCLUSIVE REMEDY HEREUNDER WITH REPECT TO THE SYSTEM. 
+  無保証。開発パートナーは、本ソフトウェアが完全であり、不具合が無いように努めるが、不具合や機能不足が発生することがある。この使用許諾契約で明示的に規定されている場合を除き、本システムは現状有姿で提供される。開発パートナーは、明示または黙示を問わず、いかなる表明あるいは保証もしない。開発パートナーは、本システムの正確性、完全性、履行性、最新性、市場性、あるいは特定目的への適合性について保証しない。開発パートナーは、本システムを使用したことに起因し、またはその結果生じ、あるいは関連するいかなる損害にも責任を負わない。開発パートナーの責任および義務は、不具合や機能不足を修正するために商業的に合理的な努力を尽くすことに限定され、これをもって、本システムに関する顧客の唯一のかつ限定的な救済方法とする。
   
-  IMPORTANT LIMITATION OF LIABILITY.  IN NO EVENT SHALL DEVELOPMENT PARTNER OR ITS OFFICERS, EMPLOYEES, VENDORS OR LICENSORS BE LIABLE FOR LOSS OF DATA, LOSS OF PROFIT, OR FOR ANY OTHER SPECIAL, CONSEQUENTIAL, OR INCIDENTAL DAMAGES, HOWEVER CAUSED, WHETHER BASED UPON CONTRACT, NEGLIGENCE, STRICT LIABILITY IN TORT, WARRANTY, OR ANY OTHER LEGAL THEORY.  IN NO EVENT SHALL DEVELOPMENT PARTNER’S CUMULATIVE AGGREGATE LIABILITY UNDER THIS AGREEMENT EXCEED THE TOTAL FEES PAID BY CUSTOMER TO DEVELOPMENT PARTNER WITH RESPECT TO THE THEN-CURRENT TERM OF THE AGREEMENT.
+  重要な責任の制限。 開発パートナーあるいはその役員、従業員、販売者あるいはライセンサーは、データの損失、機会損失、その他の特別な、派生的な、あるいは付随的な損害について、たとえそれらがいかなる原因で生じた場合でも、また契約、過失責任、無過失責任、保証その他のいかなる法理論に基づく訴訟の根拠がある場合でも、いかなる責任も負わない。この使用許諾契約における開発パートナーの賠償責任限度額は、この契約について顧客から開発パートナーに支払われた金額を超えないものとする。
 
 
 5.    U.S. Government Restricted Rights.  All Developments provided hereunder are provided with RESTRICTED RIGHTS.  Use, duplication, or disclosure by the U.S. Government is subject to restrictions as set forth in subparagraphs (c)(1) and (2) of the Commercial Computer Software - Restricted Rights at 48 CFR § 52.227-19, as applicable.  Manufacturer is DEVELOPMENT PARTNER, [THEIR ADDRESS].
