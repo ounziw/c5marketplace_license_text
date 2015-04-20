@@ -1,1 +1,3 @@
 # c5marketplace_license_text
+
+concrete5 のマーケットプレイスアドオンの日本語訳を作成するリポジトリです。
