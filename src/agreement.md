@@ -13,11 +13,11 @@
   重要な責任の制限。 開発パートナーあるいはその役員、従業員、販売者あるいはライセンサーは、データの損失、機会損失、その他の特別な、派生的な、あるいは付随的な損害について、たとえそれらがいかなる原因で生じた場合でも、また契約、過失責任、無過失責任、保証その他のいかなる法理論に基づく訴訟の根拠がある場合でも、いかなる責任も負わない。この使用許諾契約における開発パートナーの賠償責任限度額は、この契約について顧客から開発パートナーに支払われた金額を超えないものとする。
 
 
-5.    U.S. Government Restricted Rights.  All Developments provided hereunder are provided with RESTRICTED RIGHTS.  Use, duplication, or disclosure by the U.S. Government is subject to restrictions as set forth in subparagraphs (c)(1) and (2) of the Commercial Computer Software - Restricted Rights at 48 CFR § 52.227-19, as applicable.  Manufacturer is DEVELOPMENT PARTNER, [THEIR ADDRESS].
+5.    米国政府の限定権利。本契約で規定される開発成果物はすべて、限定権利を伴って提供される。「the Commercial Computer Software - Restricted Rights at 48 CFR § 52.227-19 の (c)(1) および (2)」に該当する場合に、米国政府による使用、複製または開示が行われる。開発元は開発パートナー [所在地] である。
 
-6.    Export.  In the event any product or service that is the subject of this Agreement is exported from the United States or exported/re-exported from a foreign destination by Customer, the Customer shall ensure that the distribution and export/re-export of that product or service is in compliance with all laws, regulations, orders, or other restrictions of the U.S. Export Administration Regulations.  The Customer agrees that neither it nor any of its subsidiaries will export/re-export any technical data, process, product, or service directly or indirectly to any country for which the U.S. government or any agencies thereof requires an export license or other government approval without first obtaining such license or approval.
+6.    輸出。この使用許諾契約に基づく製品またはサービスを米国より輸出し、あるいは別の国から輸出/再輸出する場合、顧客は、製品またはサービスの配布または輸出が、米国輸出管理規制の法律、規制、命令その他の制限を遵守しなければならない。技術データ、工程、成果物あるいはサービス、またはそれらの従属物について、米国政府またはその代理人が輸出ライセンスあるいは承認を要求している国に直接的にせよ間接的にせよ輸出する場合には、事前にライセンスあるいは承認を受けない限り輸出しないことに顧客は同意するものとする。
 
-7.    Miscellaneous.  
+7.    雑則。
 
 * Entire Agreement.  This document constitutes the entire Agreement between the parties and supersedes all prior or contemporaneous negotiations and agreements, whether written or oral.  No modification or amendment to this Agreement, nor any waiver of any rights, will be effective unless assented to in writing by both parties, and the waiver of any breach or default will not constitute a waiver of any other right or any other breach or default.  This Agreement may be amended only by a writing signed by both parties.
 * Assignment. Customer may not assign any portion of this Agreement except with the prior written consent of DEVELOPMENT PARTNER, and any attempt to assign (by operation of law or otherwise) this Agreement or any part thereof without consent shall be null and void.  However, DEVELOPMENT PARTNER shall not unreasonably withhold its consent to an assignment.
