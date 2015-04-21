@@ -19,13 +19,13 @@
 
 7.    雑則。
 
-* Entire Agreement.  This document constitutes the entire Agreement between the parties and supersedes all prior or contemporaneous negotiations and agreements, whether written or oral.  No modification or amendment to this Agreement, nor any waiver of any rights, will be effective unless assented to in writing by both parties, and the waiver of any breach or default will not constitute a waiver of any other right or any other breach or default.  This Agreement may be amended only by a writing signed by both parties.
-* Assignment. Customer may not assign any portion of this Agreement except with the prior written consent of DEVELOPMENT PARTNER, and any attempt to assign (by operation of law or otherwise) this Agreement or any part thereof without consent shall be null and void.  However, DEVELOPMENT PARTNER shall not unreasonably withhold its consent to an assignment.
-* Forum Selection and Choice of Law.  This Agreement shall be governed by the laws of Oregon, without regard to its choice of law rules.  By entering into this Agreement Customer agrees to be subject to personal jurisdiction in Oregon courts.  Any litigation arising from or related to this Agreement shall be brought only in the federal or state courts in Multnomah County, Oregon. 
-* Attorneys Fees; Costs.  In addition to any other relief, the prevailing party in any dispute arising under this Agreement will be entitled to all reasonable legal fees and costs.
-* Performance. A party is not liable under this Agreement for non-performance, if the non-performance is caused by events or conditions beyond that party's control, and provided the party makes reasonable efforts to perform under the circumstances.  The obligations and rights of the party so excused shall be extended on a day-to-day basis for the period of time equal to that of the underlying cause of the delay. This provision does not relieve Customer of its obligation to make any payments then owing.
-* Severability. If any provision of this Agreement is held invalid or unenforceable, that portion shall be construed in a manner consistent with applicable law to reflect, as nearly as possible, the original intentions of the parties, and the remaining provisions shall not be affected. 
-* Headings. Section headings are for convenience only and shall have no substantive meaning. 
-* Survival.  Provisions of this Agreement relating to warranties, intellectual property rights, limitation and exclusion of liability, indemnification, and payment obligations will survive the termination or expiration of this Agreement.
+* 完全条項。この使用許諾契約は、本契約で取り扱われた事項に関する当事者間のすべての合意を規定するものであり、書面であろうと口頭であろうと、従前の一切の商談および合意に優先する。双方が署名した場合を除き、この使用許諾契約の修正または変更、あるいは権利放棄は無効である。また違反または不履行の権利放棄は、他のいかなる違反や不履行の権利放棄とはみなされない。この使用許諾契約する場合は、双方が署名することを必要とする。
+* 譲渡。 顧客は、開発パートナーの事前の書面による承諾なしに、この使用許諾契約またはその一部を譲渡することはできない。(法に基づく、あるいは他の手段により)この使用許諾契約またはその一部を譲渡しても、承諾が無ければ無効である。ただし、開発パートナーは、譲渡の承諾を不当に拒絶してはならない。
+* 管轄裁判所および準拠法。 この使用許諾契約は、抵触法の原則に関わらずオレゴン州の法律に従う。この使用許諾契約に同意した顧客は、管轄裁判所をオレゴン裁判所とすることに同意する。この使用許諾契約から生じる、または関連する訴訟はすべて、オレゴン州マルトノマ郡の連邦裁判所または州裁判所に提起しなければならない。 
+*  弁護士費用および裁判費用。勝訴者は、他の救済に加え、合理的な範囲で裁判費用を回収できる。
+* 履行。この使用許諾契約における不履行について、不履行が当事者の管理の及ばない事態により引き起こされ、当事者がその状況下で合理的な努力をした場合、当事者は責任を負わない。遅延の根源的な原因がある場合、当事者の権利および義務は、その期間、延長される。この規定は、顧客の支払い義務を緩和するものではない。
+* 分離可能性。この使用許諾契約のいずれかの規定が、無効または執行不可能であった場合、その規定は適用法を反映するものと解釈され、可能な限り当事者の本来の意図をする。またこの契約の他の規定には影響しない。
+* 見出し。条項の見出しは、便宜上の目的のみに用いられるものであり、法的な意味を持たない。
+* 残存条項。この使用許諾契約に関する免責、知的所有権、責任の制限と例外、補償、および支払い義務は、この使用許諾契約の終了後または満了後も存続する。
 
 All code, documentation & license materials are Copyright 2008, DEVELOPMENT PARTNER
